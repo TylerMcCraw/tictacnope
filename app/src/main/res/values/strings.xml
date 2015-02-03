@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tic Tac NOPE</string>
+    <string name="action_settings">Settings</string>
+    <string name="trash_talk">You will not win</string>
+    <!--<string name="trash_talk_2">Give up now</string>-->
+    <!--<string name="trash_talk_3">You really think you\'re going to win?</string>-->
+    <!--<string name="trash_talk_4">I\'ve warned you</string>-->
+    <!--<string name="trash_talk_5">NOPE. I win</string>-->
+    <!--<string name="trash_talk_6">Ok. You win</string>-->
+    <!--<string name="trash_talk_7">This town ain\'t big enough for the two of us</string>-->
+    <string name="game_over_draw">Draw</string>
+    <string name="game_over_comp_wins">I win. You lose.</string>
+    <string name="game_over_user_wins">You win</string>
+    <string name="game_over_play_again">Play again?</string>
+
+</resources>
