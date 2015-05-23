@@ -1,6 +1,9 @@
 # tictacnope
 Tic Tac Nope: A game of Tic Tac Toe where the computer always wins
 
+[![New game of Tic Tac Nope](https://raw.githubusercontent.com/TylerMcCraw/tictacnope/master/tictacnope_start.png)]
+[![You will lose](https://raw.githubusercontent.com/TylerMcCraw/tictacnope/master/tictacnope_end.png)]
+
 ## Installation
 
 1. Download "TicTacNope.apk" file onto an Android device
